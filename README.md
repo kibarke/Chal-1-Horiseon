@@ -1,6 +1,9 @@
 # Chal-1-Horiseon
-This is the challange 1 homework.
+This is the challange 1 homework for Kirsten Barke.
 * [Horiseon Challenge](file:///C:/Users/Kirsten%20Barke/bootcamp/Challanges/Chal-1/urban-octo-telegram/Develop/index.html)
+
+  # Overview
+The website is a demonstration on the developer's knowledge of both HTML and CSS. The developer improved some of the website's design through CSS, like giving a bolder color to match the theme of the business. The develper enhanced the color of "seo" in Horiseon and added a title for when the user searches for Horiseon on a search engine, it's easier to find. The developer also included alternative text for the site's pictures, specifically the photos under Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
 
 ## User Story
 * AS A marketing agency
